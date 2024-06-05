@@ -26,7 +26,7 @@ const greeting = {
     "Um indivíduo apaixonado que sempre busca trabalhar em produtos de ponta a ponta que desenvolvam sistemas sociais e técnicos sustentáveis ​​e escaláveis ​​para criar impacto.",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+  portfolio_repository: "https://github.com/suntzu62/masterPortfolio",
   githubProfile: "https://github.com/suntzu62",
 };
 
@@ -41,10 +41,16 @@ const socialMediaLinks = [
   // instagram: "https://www.instagram.com/layman_brother/"
 
   {
-    name: "WhatsApp",
+    name: "GitHub",
     link: "https://github.com/suntzu62",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
+  },
+  {
+    name: "Whatsapp",
+    link: "https://wa.me/62995396918",
+    fontAwesomeIcon: "fa-whatsapp", // Reference https://fontawesome.com/icons/github?style=brands
+    backgroundColor: "#25D366", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
