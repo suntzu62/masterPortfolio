@@ -9,6 +9,7 @@ class ProjectLanguages extends Component {
         <div className="software-skills-main-div">
           <ul className="dev-icons-languages">
             {this.props.logos.map((logo) => {
+              const iconStyle = logo.color ? { color: logo.color } : {};
               return (
                 <OverlayTrigger
                   key={logo.name}
@@ -27,6 +28,7 @@ class ProjectLanguages extends Component {
                       className="iconify"
                       data-icon={logo.iconifyClass}
                       data-inline="false"
+                      style={iconStyle}
                     ></span>
                   </li>
                 </OverlayTrigger>
