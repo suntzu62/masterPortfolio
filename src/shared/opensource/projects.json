@@ -3,7 +3,7 @@
     {
       "id": "R_kgDOJWL0-g",
       "name": "ecommerce",
-      "createdAt": "2023-04-13T04:18:19Z",
+      "createdAt": "13-05-2023T04:18:19Z",
       "url": "https://ecomm-tan-nu.vercel.app/",
       "description": "E-commerce moderno com tecnologias atualizadas desde adição de carrinho á checkout. Confira tudo sobre o projeto clicando nesse card.",
       "img": "/images/ecomm.jpeg",
@@ -22,6 +22,68 @@
           "name": "MongoDB",
           "iconifyClass": "simple-icons:mongodb",
           "color": "#47A248"
+        }
+      ]
+    },
+    {
+      "id": "badfadfa",
+      "name": "Landing page",
+      "createdAt": "13-04-2023T04:18:19Z",
+      "url": "https://apresentacao-ebon.vercel.app/",
+      "description": "",
+      "img": "/images/present.jpeg",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "simple-icons:react",
+          "color": "#61DAFB"
+        },
+        {
+          "name": "Tailwindcss",
+          "iconifyClass": "simple-icons:tailwindcss",
+          "color": "#06B6D4"
+        }
+      ]
+    },
+    {
+      "id": "hotel",
+      "name": "Hotel&Spa",
+      "createdAt": "13-06-2023T04:18:19Z",
+      "url": "https://front-hotel.vercel.app/",
+      "description": "Projeto de hotel&spa com paleta de cores combinando e com efeitos modernos",
+      "img": "/images/hotel.jpeg",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "simple-icons:react",
+          "color": "#61DAFB"
+        },
+        {
+          "name": "Tailwindcss",
+          "iconifyClass": "simple-icons:tailwindcss",
+          "color": "#06B6D4"
+        }
+      ]
+    },
+    {
+      "id": "blog",
+      "name": "Blog News",
+      "createdAt": "13-06-2024T04:18:19Z",
+      "url": "https://blog-tau-green.vercel.app/",
+      "description": "Modelo Next.js limpo e moderno para revistas, notícias e blogs.",
+      "img": "/images/download.png",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "next",
+          "iconifyClass": "simple-icons:nextdotjs"
+        },
+        {
+          "name": "Tailwindcss",
+          "iconifyClass": "simple-icons:tailwindcss",
+          "color": "#06B6D4"
         }
       ]
     }

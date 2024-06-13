@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Um indivíduo apaixonado que sempre busca trabalhar em produtos de ponta a ponta que desenvolvam sistemas sociais e técnicos sustentáveis ​​e escaláveis ​​para criar impacto.",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
+    "https://docs.google.com/document/d/1yzUdsR08DAJBoQOFwamyl2RewhMgriiXJDFjZWZDDkg/edit?usp=drive_link",
   portfolio_repository: "https://github.com/suntzu62/masterPortfolio",
   githubProfile: "https://github.com/suntzu62",
 };
@@ -649,7 +649,7 @@ const contactPageData = {
     title: "Contato",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "Estou disponível em quase todas as redes sociais. Você pode me enviar uma mensagem, responderei dentro de 24 horas. Posso ajudá-lo com desenvolvimento de ML, IA, React, Android, Cloud e Opensource.",
   },
   blogSection: {
     title: "Blogs",
@@ -659,15 +659,15 @@ const contactPageData = {
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
-    title: "Address",
-    subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
-    country: "USA",
-    region: "California",
+    title: "Endereço",
+    subtitle: "St. Pedro ludovico, Goiânia, GO, BR ",
+    locality: "Goiânia",
+    country: "Br",
+    region: "Centro-oeste",
     postalCode: "95129",
-    streetAddress: "Saratoga Avenue",
+    streetAddress: "Rua 1029",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link: "https://maps.app.goo.gl/VMb475Tbe26T2x6k9",
   },
   phoneSection: {
     title: "",
