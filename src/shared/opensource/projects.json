@@ -86,6 +86,26 @@
           "color": "#06B6D4"
         }
       ]
+    },
+    {
+      "id": "portfolio",
+      "name": "Portfolio",
+      "createdAt": "13-06-2024T04:18:19Z",
+      "url": "https://portfolio02-omega.vercel.app/",
+      "description": "Feito com tecnologias modernas com grande interatividade ao momento que rolando o mouse para baixo as informações vão aparecendo.",
+      "img": "/images/port.jpeg",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "next",
+          "iconifyClass": "simple-icons:nextdotjs"
+        },
+        {
+          "name": "Tailwindcss",
+          "iconifyClass": "simple-icons:tailwindcss",
+          "color": "#06B6D4"
+        }
+      ]
     }
   ]
 }
